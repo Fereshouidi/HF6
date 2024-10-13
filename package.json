@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "next": "^14.2.13",
+    "react-router-dom": "^6.26.1"
+  }
+}

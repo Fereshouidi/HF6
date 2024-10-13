@@ -1,0 +1,3 @@
+[submodule "bech"]
+	path = bech
+	url = git@github.com:Fereshouidi/bech.git
